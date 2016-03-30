@@ -1,0 +1,28 @@
+name: vera
+favicon: null
+layout_spectrum: 0.9403489511460066
+typography_spectrum: 0.48321778303943574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6311447669286281
+  lightness: 0.47956489375792444
+  saturation: 0.518236487172544
+  rhythmicContrast: 0.8955162952188402
+purpose: []
